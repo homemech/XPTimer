@@ -1,2 +1,2 @@
-# kineticlab
-A YouTube tutorial series for beginners to Unity and Blender. We create an experiment lab to mess around with coding and modeling.
+# xptimer
+A pomodoro timer that keeps a record of time spent on tasks and adds them as "XP."
